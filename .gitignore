@@ -1,0 +1,12 @@
+
+test/
+
+output/
+
+.env
+
+*.pyc
+
+__pycache__/
+
+venv/
